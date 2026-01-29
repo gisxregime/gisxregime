@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Yan (aka gis) 
-
-<p align="center">
-  <img src="https://gifdb.com/images/high/anime-banner-gif-file-16036kb-8ak17mpc47jqcxsq.webp" width="100%" height="5%"/>
-</p>
-
 ---
 
 ## 🧠 About Me
