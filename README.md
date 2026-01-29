@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yan (aka gis) 💗✨
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh3YXAwcDYxaTYxZjNmcmR6d3Byc3dsazhtczZ0YTV4c201dGloeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jni3BHN2r5lrq/giphy.gif" width="50%"/>
+  <img src="https://pin.it/3W9lp16Xp" width="50%"/>
 </p>
 
 ---
@@ -11,14 +11,14 @@
 I’m driven by curiosity and the thrill of solving problems I stumble upon —  
 the kind you *can’t* ignore once they live in your head.
 
-I play **CTFs for the adrenaline rush** — that exact moment when everything finally clicks after hours of digging, testing, and failing.
+I play CTFs for the adrenaline rush — that exact moment when everything finally clicks after hours of digging, testing, and failing.
 
 I can’t function in chaos.  
 My space, like my systems, has to be **neat, intentional, and well-structured**.
 
 I explore tech not just to use it, but to **understand it**, **question it**, and sometimes **break it on purpose**.  
 Research is my comfort zone.  
-Learning never stops — **quitting isn’t an option**.
+Learning never stops — quitting isn’t an option.
 
 ---
 ### ✨ What I work with
