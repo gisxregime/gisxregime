@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yan (aka gis) 💗✨
 
 <p align="center">
-  <img src="https://pin.it/3W9lp16Xp" width="50%"/>
+  <img src="https://gifdb.com/images/high/anime-banner-gif-file-16036kb-8ak17mpc47jqcxsq.webp" width="50%"/>
 </p>
 
 ---
