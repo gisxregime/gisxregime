@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yan (aka gis) 💗✨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY0N2YxM2Y4YmQ3ZTVlOTAwYzRkMjFkNjk3ZDYzYjRkMjE2MCZjdD1n/26BRzozg4TCBXv6QU/giphy.gif" width="220"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh3YXAwcDYxaTYxZjNmcmR6d3Byc3dsazhtczZ0YTV4c201dGloeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jni3BHN2r5lrq/giphy.gif" width="100%"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@ Learning never stops — **quitting isn’t an option**.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxYTRmYzFkMjU2MTM0ODQ2OGJjZjY0NzU4NzM1Y2Q5MDQyOCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl5c3U1NXRhajRtbXN0OWZ3MXU1azAwbGE0c2dnNTh0OHJsZTd1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LAVGgQmpE6bY7NDDvC/giphy.gif" width="100%"/>
 </p>
 
 <p align="center">
