@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yan (aka gis) 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m driven by curiosity and the thrill of solving problems I stumble upon —  
 the kind you *can’t* ignore once they live in your head.
@@ -19,7 +19,7 @@ Learning never stops — quitting isn’t an option.
 ### ✨ What I work with
 
 
-## 💗 Tech Stack & Skills
+##  Tech Stack & Skills
 
 
 <p align="center">
