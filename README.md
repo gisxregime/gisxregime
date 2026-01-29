@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yan (aka gis) 
+# 👋 Hi, I'm Yan  
 ---
 
 ##  About Me
