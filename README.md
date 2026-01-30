@@ -16,14 +16,13 @@ Research is my comfort zone.
 Learning never stops — quitting isn’t an option.
 
 ---
-### ✨ What I work with
 
 
 ##  Tech Stack & Skills
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,bash,linux,html,css,js,express,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,bash,linux,html,css,js,figma&theme=light" />
 </p>
 
 ---
