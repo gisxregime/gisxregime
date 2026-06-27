@@ -71,7 +71,7 @@
 ## Connect with Me
 <p align="center">
   <a href="www.linkedin.com/in/diana-grace-cinco-67054034a"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Gis's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:cincodianagracecinco@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Gis's Email"/></a>
+  <a href="mailto:cincodianagrace@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Gis's Email"/></a>
 </p>
 
 <picture>
