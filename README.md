@@ -8,12 +8,6 @@
   <img src="https://streak-stats.demolab.com/?user=gisxregime&theme=dracula&hide_border=true&cache_seconds=86400" alt="gisxregime's GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/gisxregime">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gisxregime&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 ## Connect with Me
 <p align="center">
   <a href="www.linkedin.com/in/diana-grace-cinco-67054034a"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Gis's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
